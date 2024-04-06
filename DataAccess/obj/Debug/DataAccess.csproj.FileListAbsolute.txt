@@ -1,0 +1,69 @@
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\bin\Debug\DataAccess.dll.config
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\bin\Debug\DataAccess.dll
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\bin\Debug\DataAccess.pdb
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\bin\Debug\EntityFramework.dll
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\bin\Debug\EntityFramework.xml
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\obj\Debug\DataAccess.dll
+F:\Works\IdentitySolution-ASP\IdentitySolution-ASP\DataAccess\obj\Debug\DataAccess.pdb
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\DataAccess.dll
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\DataAccess.pdb
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.dll
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.xml
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\obj\Debug\DataAccess.dll
+C:\Tri\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\obj\Debug\DataAccess.pdb
+D:\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\obj\Debug\DataAccess.dll
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\DataAccess.dll.config
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\DataAccess.dll
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\DataAccess.pdb
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.dll
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.xml
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\obj\Debug\DataAccess.dll
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\obj\Debug\DataAccess.pdb
+D:\QLTS\Quản lí tài sản công ty DKC\QuanLyTaiSan_UserManagement\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\bin\Debug\DataAccess.dll
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\bin\Debug\DataAccess.pdb
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.dll
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.xml
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.dll
+D:\Clone_GitHub\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.pdb
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\bin\Debug\DataAccess.dll.config
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\bin\Debug\DataAccess.dll
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\bin\Debug\DataAccess.pdb
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.dll
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.xml
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.csproj.Up2Date
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.dll
+D:\LTWEB\DATN_QLTSCongTy\DataAccess\obj\Debug\DataAccess.pdb
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\bin\Debug\DataAccess.dll.config
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\bin\Debug\DataAccess.dll
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\bin\Debug\DataAccess.pdb
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\bin\Debug\EntityFramework.dll
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\bin\Debug\EntityFramework.xml
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\obj\Debug\DataAccess.dll
+D:\File\Subject\NAM 4\HOC KY 2\DO AN CHUYEN NGANH\DO AN\QLTS-master\DataAccess\obj\Debug\DataAccess.pdb
